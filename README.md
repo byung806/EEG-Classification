@@ -47,7 +47,7 @@ Features are extracted from the EEG data using Discrete Wavelet Transform (DWT),
 - **Shannon Entropy** (SE)
 
 <div style="text-align: center;">
-    <img src="unknown.png" alt="Features" style="width: 80%;">
+    <img src="https://github.com/user-attachments/assets/a7fc182f-bd73-46df-b779-4e1395109034" alt="Features" style="width: 80%;">
     <p><em>Figure: Features</em></p>
 </div>
 
