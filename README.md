@@ -3,7 +3,7 @@
 ## Summary
 Frontotemporal dementia (FTD) is a type of dementia making up a significant portion (about 10\%-20\%) of all dementia cases today. However, diagnosis has proven to be difficult.
 
-This project involves the classification of EEG features extracted from datasets of Frontotemporal dementia and healthy subjects. This classification explains specific brain qualities that guide the model's decisions, enhancing the explainability and trustworthiness of diagnosis models for doctors and patients.
+This project involves the classification of EEG features extracted from datasets of Frontotemporal dementia and healthy subjects. This classification **explains specific brain qualities that guide the model's decisions**, enhancing the **explainability and trustworthiness of diagnosis models** for doctors and patients.
 
 ## How does it work?
 
