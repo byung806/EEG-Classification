@@ -3,7 +3,7 @@
 ## Summary
 Frontotemporal dementia (FTD) is a type of dementia making up a significant portion (about 10\%-20\%) of all dementia cases today. However, diagnosis has proven to be difficult.
 
-This project classifies EEG features from frontotemporal dementia and healthy subjects, revealing specific brain qualities that guide the model's decisions. It bridges raw clinical data and patient care by turning EEG signals into human-readable insights. By **improving the explainability and trustworthiness** of diagnosis models, this research ultimately supports **more informed and reliable patient care**.
+While previous research has focused on improving classification accuracy, a highly accurate model means little if doctors cannot interpret or trust its decisions. My work prioritizes explainability and trust. By breaking down raw data into human-readable insights, my work helps bridge the gap between computational advances and actual patient care. Ultimately, this research supports **more informed and reliable patient care**.
 
 ## How does it work?
 
